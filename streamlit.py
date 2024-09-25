@@ -16,7 +16,7 @@ def extract_answer(response):
 st.set_page_config(page_title="CPE-UNIBEN Chat Bot")
 with st.sidebar:
     st.title('Ask Me About Computer Engineering')
-    st.title('This project was completed by the Memebers of Group 9 in CPE461 22/23 session ')
+    st.title('This project was completed by the Members of Group 9 in CPE461 22/23 session ')
 
 
 def generate_response(input):
