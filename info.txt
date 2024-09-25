@@ -1,0 +1,182 @@
+Department of Computer Engineering - Introduction
+Computer Engineering focuses on the knowledge and skills necessary for the analysis, planning, and design of computer systems, including hardware, software, and networks for data transmission and multimedia. It plays a crucial role in developing innovative solutions to challenges in instrumentation, control, manufacturing, and electronics by integrating computer technology.
+
+Graduates of the Department of Computer Engineering are well-positioned to find employment in various industries such as information technology, telecommunications, robotics, software development, autonomous systems, financial institutions, IC satellite communication, research, and consultancy firms.
+
+Additionally, the department equips students with the potential to become self-employed by developing consumer products for household automation, business intelligence solutions, software design, and ICT consultancy.
+
+Philosophy and Objectives of the Computer Engineering Department
+The Department of Computer Engineering is committed to developing technical manpower at all levels to support sustainable economic growth both nationally and globally.
+
+Objectives of the Undergraduate Degree Programme:
+To empower students with both technical and theoretical knowledge, preparing them for leadership roles in the field.
+To maintain a high standard of education in computer engineering through excellent teaching, innovative research, and outputs that meet the evolving needs of society.
+To equip students to plan, design, construct, and operate society's technological and ICT infrastructure for national socio-economic development.
+To engage students in both basic and applied research in computer software and hardware design.
+To prepare graduates as highly skilled, ethical professionals capable of competing in a global marketplace.
+Every student is required to complete a final-year project, which is typically aligned with the technological needs of the country.
+
+Programme Alignment with Broader Objectives:
+The Computer Engineering programme aligns with several key philosophies and objectives:
+
+The overarching philosophy and objectives of the Faculty of Engineering, University of Benin.
+The National University Commission (NUC)  of January 2018 for Engineering and Technology.
+Requirements set by the Council for the Regulation of Engineering in Nigeria (COREN) and the Nigerian Society of Engineers.
+Nigeria’s National Policy on Education, alongside philosophies and objectives aimed at promoting academic and professional development in Electrical/Electronic Engineering.
+Since the first graduates in the 1997/98 session, the department has consistently received positive feedback from industries and parastatals regarding the performance of its graduates, further affirming the high quality of the B.Eng. (Computer Engineering) programme.
+
+
+
+300 LEVEL COURSE SYNOPSES
+First Semester
+CPE311 Circuit Theory (3 Units – 3 Hours/Week)
+This course covers advanced network analysis, including network theorems, mesh and nodal analysis, and one- and two-port networks. It explores transient and steady-state responses of RL, RC, and RLC circuits, and dives into oscillations and circuit synthesis using Foster’s and Cauer’s methods. Students will explore the role of Fourier and Laplace transforms in circuit analysis, filters (rectifier, LC, K-derived), and harmonic analysis. Additionally, it covers non-linear circuit analysis, network graphs, topology, and applications in computer-aided circuit analysis.
+
+CPE313 Measurement and Instrumentation (2 Units – 2 Hours/Week)
+This course offers a comprehensive study of general instrumentation and the use of meters for DC and AC measurements. Students will explore various bridges (DC and AC), electronic instruments for circuit measurements, oscilloscopes, waveform generators, and analyzers. The course also focuses on data acquisition systems (D/A and A/D converters), sampling, holding circuits, and introduces students to advanced measurement techniques using analog and digital systems.
+
+CPE331 Electrical Machines (2 Units – 2 Hours/Week)
+A detailed study of electromechanical energy conversion, this course reviews the operation of DC machines and transformers, highlighting their performance, speed control, and fault handling. AC motors, synchronous machines, and different motor configurations are discussed. Students will study the characteristics, testing, and equivalent circuits of machines, and the course concludes with an analysis of starting methods, protection systems, and machine losses.
+
+CPE351 Communication Principles (2 Units – 2 Hours/Week)
+This course delves into communication principles, beginning with amplitude modulation and moving to angle modulation schemes such as frequency and phase modulation. The course examines media of transmission, including air, cables, and fiber optics, and covers advanced modulation techniques like Pulse Amplitude Modulation, Pulse Width Modulation, and Pulse Code Modulation (PCM). It also includes sampling theory, error correction in digital signals, and modulation techniques like Delta Modulation.
+
+CPE371 Embedded System Design (2 Units – 2 Hours/Week)
+The course reviews computing system fundamentals and focuses on embedded systems, including their architectures, characteristics, and applications. Students will study microcontroller families, such as the Intel 8051 and PIC16f84a, and learn to interface microcontrollers with external environments. Emphasis is placed on programming, timing analysis, and interfacing peripherals like LCDs, ADCs, and DACs. Instruction sets, assembler directives, and serial communication protocols are also introduced.
+
+CPE375 Computer Organization and Architecture I (3 Units – 3 Hours/Week)
+A deep dive into computer hardware development, this course covers Von Neumann and Harvard architectures, integer and floating-point arithmetic, ALU operations, and RISC vs. CISC systems. The course provides an overview of memory, input/output systems, and the control unit of a computer. Students will explore instruction pipelining, superscalar processors, and parallel processing techniques. Use of INTEL and MOTOROLA families as case studies helps to reinforce theoretical concepts.
+
+ELA301 Engineering Laboratory (2 Units – 2 Hours/Week)
+This practical course involves hands-on experimentation in various fields of computer and electrical engineering. Students will submit reports based on laboratory investigations, focusing on real-world applications in engineering systems and projects.
+
+EMA381 Engineering Mathematics III (3 Units – 3 Hours/Week)
+This course explores advanced topics in linear algebra and analytic geometry. Students will study eigenvalues and eigenvectors, polar coordinates, and numerical methods for solving differential equations. Additionally, students will explore linear programming (Simplex method) and engage in numerical analysis, curve fitting, and solutions for ordinary differential equations.
+
+MEE351 Thermodynamics I (2 Units – 2 Hours/Week)
+Students will study thermodynamic properties of substances, phases, and heat-work interactions. The course emphasizes the laws of thermodynamics, energy equations, engine cycles, and Carnot cycle concepts. Real-world applications of thermodynamic principles in systems such as heat pumps, gas turbines, and refrigerators are explored.
+
+MEE361 Fluid Mechanics I (2 Units – 2 Hours/Week)
+This course covers fundamental concepts of fluid mechanics, including fluid statics and dynamics. Students will study pressure variations, flow in pipes, and Reynold’s number significance. The course introduces dimensional analysis and fluid measurement techniques using various flow meters. Theoretical and practical applications in engineering are covered.
+
+Second Semester
+CPE302 Computer Laboratory (2 Units – 2 Hours/Week)
+This practical course focuses on laboratory experiments in computer engineering. Students will work with electronic circuits, computer programming, and workshop practices, gaining hands-on experience and submitting detailed reports of their findings.
+
+CPE314 Electromagnetic Fields and Waves (3 Units – 3 Hours/Week)
+This course offers an in-depth study of electromagnetic theory, covering Maxwell’s equations, wave propagation, and the behavior of electromagnetic fields in various media. Students will explore transmission lines, waveguides, and antenna applications. The course also emphasizes real-world applications in digital systems and devices.
+
+CPE322 Programming Languages (2 Units – 2 Hours/Week)
+Students will learn compiler- and interpreter-oriented languages like C, C++, Java, and others. The course emphasizes coding, debugging, and developing solutions in modern Integrated Development Environments (IDEs) such as NetBeans and Visual Studio.
+
+CPE324 Operating System (2 Units – 2 Hours/Week)
+An introduction to operating systems, this course covers the history, structure, and functions of operating systems, including process management, memory management, and I/O systems. The course provides an overview of modern operating systems such as UNIX/Linux and Windows, and examines scheduling, deadlocks, and virtual memory.
+
+CPE344 Engineering Communication (1 Unit – 1 Hour/Week)
+This course emphasizes the professional use of English for engineering applications, including writing technical reports, proposals, and project documentation. Students will learn how to present engineering designs and failures through case studies and develop skills in presenting charts, graphs, and technical data.
+
+CPE362 Software Engineering I (3 Units – 3 Hours/Week)
+Students will explore the software development life cycle, focusing on top-down design methodologies. The course covers programming in C, including arrays, pointers, dynamic memory allocation, and data structures. Students will also learn about debugging techniques, software documentation, and using compilers in various environments.
+
+CPE372 Digital Electronic Circuit (3 Units – 3 Hours/Week)
+This course focuses on digital circuits, covering number systems, logic gates, combinational and sequential circuits, and flip-flops. Students will design circuits using Boolean algebra and learn how to implement digital systems with ADCs, DACs, counters, registers, and timers.
+
+CPE392 Analogue Electronic Circuit (3 Units – 3 Hours/Week)
+This course provides a review of transistor amplifiers, operational amplifiers, and feedback systems. Students will learn about amplifier design, voltage stabilization, and multi-stage amplifier design using BJTs and FETs. The course also introduces feedback amplifiers and small signal parameters.
+
+EMA382 Engineering Mathematics IV (4 Units – 4 Hours/Week)
+The course covers Fourier series, differential equations, and vector field theory. Students will learn about Bessel and Legendre functions, divergence, curl, and theorems like Green’s and Stock’s theorem. The course applies these mathematical concepts to solve partial differential equations and problems in engineering fields.
+
+CPE399 SIWES II (0 Unit)
+This industrial training program provides students with practical experience in the industry. It allows students to apply their academic knowledge in real-world environments, working with machines, tools, and systems they are likely to encounter in their professional careers.
+
+
+
+
+
+
+400 LEVEL FIRST SEMESTER
+CED300 Entrepreneurship (2 Units – 2 Hours/Week)
+Profiles of business ventures across various sectors like soap making, brick making, brewing, food processing, farming, refrigeration, bakery, animal husbandry, and more. The course involves case studies focusing on Nigerian businesses, with guest lectures from industry players sharing practical experiences.
+
+CPE401 Computer Laboratory II (2 Units – 2 Hours/Week)
+Hands-on lab work involving experiments and projects across different fields in Computer Engineering, focusing on electronic circuits, programming, and practical workshop tasks.
+
+CPE433 Data Communication and Network (3 Units – 3 Hours/Week)
+Covers fundamental concepts in data communications, including types and sources of data, transmission modes, error control, data compression, network operating systems, and Internet protocols like IPv4 and IPv6. The course also addresses security and system administration concerns.
+
+CPE451 Control Theory (3 Units – 3 Hours/Week)
+Introduces control systems, including open-loop and closed-loop systems, stability analysis, steady-state errors, and design techniques using Root Locus and Bode plots. The course emphasizes analysis techniques for time and frequency responses.
+
+CPE453 Microprocessor System and Interfacing (3 Units – 3 Hours/Week)
+Detailed exploration of microprocessor systems, including architecture, interrupts, memory management, and peripheral interfacing. The course covers assembly language programming for Intel and Motorola processors, and an introduction to ARM processors.
+
+CPE457 Assembly Language and System Programming (2 Units – 2 Hours/Week)
+A study of low-level machine programming using Intel 8086 and Motorola assembly languages. Topics include addressing modes, modular programming, interrupt handling, and advanced processor instructions like MMX and SSE.
+
+CPE461 Software Engineering II (2 Units – 2 Hours/Week)
+Focuses on object-oriented programming and software design principles. Topics include data structures, algorithms, software architecture, testing, team-based development, and cross-platform GUI development.
+
+CPE475 Computer Organization and Architecture II (2 Units – 2 Hours/Week)
+Topics include Datapath and Control Unit Design, arithmetic operations like addition, multiplication, division, and logic unit design. The course explores hardware control design techniques and microprogrammed control units.
+
+CPE479 Prototyping Techniques (2 Units – 2 Hours/Week)
+This course teaches practical electronics prototyping skills, including soldering, breadboarding, wire wrapping, PCB design, and RF circuit components. It includes construction exercises using various prototyping techniques.
+
+CPE481 Numerical Computation and Statistics (3 Units – 3 Hours/Week)
+Covers numerical methods and their implementation in programming languages like C and Java. Topics include matrix methods, interpolation, numerical differentiation, and probability and statistics functions. Error estimation and curve fitting are also addressed.
+
+400 LEVEL SECOND SEMESTER
+CPE499 SIWES III (6 Units – 24 Weeks)
+The Industrial Work Experience Scheme (SIWES) is a 24-week practical attachment in the industry. Students gain hands-on experience in real-world environments related to their major and must pass all modules to be eligible for graduation.
+
+
+500 LEVEL FIRST SEMESTER
+
+CPE502 Project (3 Units – 6 Hours/Week)
+Overview: This course spans the entire academic session. Students must undertake a project under a lecturer’s supervision, submit a detailed project report, and present a seminar at the end of the year. A project status report is to be presented at the end of the first semester. Attendance at Engineering Seminars is mandatory.
+CPE512 Digital Signal Processing (3 Units – 3 Hours/Week)
+Overview: Introduces digital signal processing (DSP) and its advantages over analog methods. Topics include digitization issues, sampling theory, discrete Fourier analysis, digital filters, and DSP microprocessors.
+Key Concepts:
+z-transform, Fourier transform, windowing, FIR, IIR filters, DSP chip architecture.
+Application in audio and video processing.
+CPE522 Digital System Design with VHDL (3 Units – 3 Hours/Week)
+Overview: Focuses on finite state machines (FSM), sequential circuits, and VHDL design. The course covers VHDL abstractions, digital system design, and implementation using FPGA and CPLD.
+Key Concepts:
+Mealy and Moore FSM, Register Transfer Level (RTL) design, VHDL synthesis, ASIC design, and FPGA design paradigms.
+CPE556 Computer Graphics (3 Units – 3 Hours/Week)
+Overview: Covers 3D animation techniques, polygonal modeling, NURBS modeling, rendering techniques, and using software like Autodesk 3Ds, Maya, or Blender.
+Key Concepts:
+Wireframe modeling, texture mapping, lighting, camera setup, and animation techniques (e.g., walk cycles, facial expressions).
+PRE572 Engineering Management & Economics II (3 Units – 3 Hours/Week)
+Overview: Focuses on resource management, production control, optimization, decision-making under uncertainty, and basic work-study principles.
+Key Concepts:
+Gantt charts, Critical Path Method (CPM), PERT, linear programming, facility layout, and maintenance engineering.
+CPE514 Design and Installation of Electrical and ICT Services (3 Units – 3 Hours/Week)
+Overview: This course focuses on electrical safety, lighting calculations, installation materials, earthing systems, telecommunication and networking installation, and contract bidding.
+Key Concepts:
+Electrical installation, lighting and illumination, telecommunication design, and preparation of Bill of Engineering Measurement and Evaluation (BEME).
+CPE516 Computer Security Techniques II (3 Units – 3 Hours/Week)
+Overview: Introduces cryptographic systems, encryption methods (DES, RSA, elliptic curves), and cryptographic techniques like block and stream ciphers.
+Key Concepts:
+Public key systems, digital signatures, encryption standards, video scrambling, and ethical issues in computer security.
+CPE524 Fuzzy Logic and Expert Systems (2 Units – 2 Hours/Week)
+Overview: Introduces fuzzy set theory, fuzzy logic systems, fuzzy reasoning, and expert systems.
+Key Concepts:
+Membership functions, fuzzy operators, Max-Min composition, fuzzy programming, and applications in expert systems.
+CPE526 Robotics and Automation (3 Units – 3 Hours/Week)
+Overview: Covers robotics fundamentals, automation strategies, robot kinematics, control systems, and robot programming.
+Key Concepts:
+Forward and inverse kinematics, workspace analysis, control of manipulators, robot vision, and human-machine interfaces.
+CPE544 Digital Image Processing (2 Units – 2 Hours/Week)
+Overview: Focuses on image processing techniques, digital image acquisition, image enhancement, segmentation, and practical applications like face and fingerprint recognition.
+Key Concepts:
+Fourier and wavelet transforms, image compression, image morphology, and color representation.
+
+CPE572 Digital Computer Networks (3 Units – 3 Hours/Week)
+Overview: Covers computer networking, IP addressing (IPv4 and IPv6), OSI and TCP/IP models, network protocols, and security mechanisms.
+Key Concepts:
+Ethernet, routing protocols, network security (e.g., HTTPS, SSH, SSL), and access control lists (ACL)
+
+
+The following are the group memebers of group 9: Daniel, Prosper, Godspower, Jephtah, Isreal . These members created this ai chat bot
