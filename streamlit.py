@@ -5,10 +5,10 @@ import re
 bot = ChatBot()
 
 def extract_answer(response):
-        # Regular expression to match the answer after the 'Answer:' keyword
+        
         answer = re.search(r"Answer:\s*(.*)", response, re.DOTALL)
         if answer:
-            # Return the part after 'Answer:'
+            
             return answer.group(1).strip()
         else:
             return "Sorry, I couldn't extract the answer."
@@ -21,23 +21,20 @@ with st.sidebar:
 
 def generate_response(input):
     try:
-        # Ensure input is a valid string and not None
+        
         if not input:
             raise ValueError("Input cannot be empty or None.")
         
-        # Invoke the bot's response
         result = bot.rag_chain.invoke(input)
         
-        # Check if the result is None
+
         if result is None:
             raise ValueError("The bot returned no response.")
         
-        # Assuming result is a string containing the entire output (including context, question, and answer)
-        # We extract only the answer part
-        return result.strip()  # Assuming the model returns just the final answer; adjust if necessary.
-    
+
+        return result.strip()      
     except ValueError as ve:
-        # Handling invalid token or authorization issues
+   
         if "token seems invalid" in str(ve):
             st.error(f"Authorization failed: {str(ve)}")
             return "It seems the authorization token is invalid. Please refresh or log in again."
@@ -53,17 +50,16 @@ def generate_response(input):
         st.error(f"An unexpected error occurred: {str(ex)}")
         return "Oops! Something went wrong. Please try again later."
 
-# Store LLM generated responses
+
 if "messages" not in st.session_state:
     st.session_state.messages = [{"role": "CPE Bot", "content": "Welcome to The Department of Computer Engineering Online Assistance Artificial Intelligence Bot, let's begin by you asking me some questions about the department"}]
 
-# Display chat messages
+
 for message in st.session_state.messages:
     with st.chat_message(message["role"]):
         st.write(message["content"])
 
-# User-provided prompt
-input = st.chat_input()  # Fetch input from the user
+input = st.chat_input()  
 
 # Proceed only if input is valid (i.e., not None or empty)
 if input:
